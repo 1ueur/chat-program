@@ -1,6 +1,6 @@
 # chat-program
 ### 🧸 Make
-```.make```
+```make```
 
 ### 🧸 Server
 ```./server <PORT>```
