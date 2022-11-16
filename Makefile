@@ -1,5 +1,5 @@
-server : chat-server.c client
+chat-server : chat-server.c chat-client
 	gcc chat-server.c -o server
-client : chat-client.c
-	gcc chat-client -o client
+chat-client : chat-client.c
+	gcc chat-client.c -o client
 
